@@ -2,3 +2,4 @@
 
 Curso dictado los lunes y miércoles de 6 a 8pm
 
+## Temáticas del curso
