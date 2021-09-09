@@ -3,5 +3,5 @@ Luis Montero
 Miguel Olaya
 Ruben Fernandezdecastro
 +Santiago Foronda
-Silvia Guevara
-Ana Cantilla
++Silvia Guevara
++Ana Cantilla
